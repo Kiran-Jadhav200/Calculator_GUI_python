@@ -1,2 +1,2 @@
 # Calculator_GUI_python
-will make GUI calculator in Python
+GUI Calculator using Python very easy 
